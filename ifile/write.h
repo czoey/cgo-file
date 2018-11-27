@@ -1,0 +1,2 @@
+
+char *getTextFromFile(char *filename);
